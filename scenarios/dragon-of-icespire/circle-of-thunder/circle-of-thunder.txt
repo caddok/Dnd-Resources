@@ -1,0 +1,89 @@
+Circle of Thunder Quest
+
+Travel to the Circle of Power Encounters
+	E1. Tree trap
+		Description:
+		Вървейки из гората, попадате на малка полянка, в чийто център се издига
+		високо, поне 10-12 метра, обгорено борово дърво. Завързани близо до основата 
+		на дървото виждате няколко ужасяващи кукли направени от съчки и увиси с черна
+		коса.
+		Trigger.
+		Ако играч счупи куклата, вътре с нея се разкрива все още тупкащо сърце на прасе.
+		Всякакъв damage убива сърцето и активира капана.
+		Effect.
+		Еach creature standing in the clearing must succeed on a DC 12 Dexterity saving throw
+		or take 5 (2d4) bludgeoning damage and be restrained. The creature takes this damage 
+		again at the start of each of its turns until it escapes. A creature can use an action
+		to free itself or another creature within its reach with a successful DC 15 Strength (Athletics) check,
+		or by dealing 5 or more slashing damage against a root with a single melee weapon attack.
+		The roots have AC 13 and immunity to all damage except slashing.
+		Countermeasures.
+		Detect Magic разкрива аура на трансмутационна(transmutation) магия която идва
+		от дървото и земята на 20 метра от него.
+		
+	E2. Yargath's Patrol
+		Description:
+		Вървейки по неравният терен на гората се изчаквате по хребета. Стигайки отгоре виждате как няколко орки
+		изкачват сходен хребет, а на върха виждате полу-орк облечен в кожи, който ви забелязва.
+		Дели ви дере широко около 20тина метра и дълбоко към 3. Орките се обръщат, надават бойни викове и се спускат
+		към вас.
+		// направи encounters
+		// if Yargath tries to flee
+			- Това се превръща в chase scene(refer to chase-scenes.txt)
+		// Loot
+			- 1d6 gold per orc grunt
+			- 2d8 gold for Yargath
+			- 1 eye of fury on a successful DC 10 Survival check
+			
+
+Arrival 
+  Description:
+  Докато приближате хълма, виждате как почват да се събирам тъмни, буреносни облаци. На върха на хълма виждате че са
+  разположени голям кръг от изправени камъни. Три фигури танцуват и напяват около хора вързани в центъра на кръгът.
+  Около самият хълм виждате че проблясва синкаво сияние, което образува голям купол, който обхваща най-вътрешният кръг.
+  
+  Докато приближате към хълма виждате как един орк излиза от върха на хълма, където се намирам камъните, и зад него се
+  образува триъгълна бариера направена от силни ветрове. Малко по надолу по хълма виждате един добре познат мантикор и
+  неговата господарка и още няколко полу-орка пред тях
+	// 
+  
+  
+Gorthok Summoning Ritual
+  
+  Описание:
+  Това е ритуалът за призоваването на Горток светкавичният глиган. Членовете на култа трябва да съберат поне 20 точки
+  за да призовават Горток, но ритуалът не свършва когато съберат 20 точки. Със всеки рунд след 20 точки силата на Горток
+  расте и членовете на култа винаги ще продължат ритуала възможно най дълго. 
+	
+  Possible results:
+	- < 20 точки 
+		- всички полу-орки са мъртви, а служителите на Биг Ал са живи
+	- = 20 точки
+		- служителите на Биг Ал са мъртви, а шаманите са в безсъзнание и Горток е с 73 Max HP
+	- > 20
+		- за всяка точка след 20 Горток получава +2 Max Hp 
+  Gaining points to finish the ritual
+	- Ако и 3мата шамани са в съзнание на края на всеки рунд се добавят 2 точки за призоваването на Горток
+	- Докато поне един шаман е в съзнание и не е под никакви магически или физически ефекти се добавя 1 за
+	  призоваването на Горток
+  
+  Defences 
+    - Storm Barrier
+		- The barrier functions as Globe of Invulnerability but it's a 3rd level spell and it's powered by idols that
+		  can be found in areas C2, C3 and C4. If a character tries to go through the barrier he/she has to succeed on 
+		  a DC 25 Athletics check or be sucked in and thrown in a random cardinal direction(Roll a d8. 1 on a d8 is North) 10ft. 
+		- To break the barrier at least 2 idols must be destroyed 
+	- A storm is brewing
+		- While the ritual is in progress, meaning at least 1 shaman is conscious, the stormy weather in the area is ramping up.
+		- Starting round 4 winds ramp up so much that characters with Strenght < 8 and increases with 1 every even round after 4th.
+	- Guard the ritual
+		- Sheliss and Vurd are guarding the ritual together with the orcs
+		- Granoc has his best men with him also guarding the ritual
+			- Granoc, 1 Orog and 2 orcs 
+
+
+
+
+	
+	
+  

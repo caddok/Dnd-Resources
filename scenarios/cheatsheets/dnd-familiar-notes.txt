@@ -1,0 +1,18 @@
+Find familiar:
+	- gain the service of a spirit in the form of an animal
+	- acts independantly but always obeys your commands
+	- In Combat
+		- rolls it's own initiative
+		- can't attack but take other actions
+	- When it drops to 0 it disapears
+		- but can be resummoned
+	- The player can communicate with it telepathically while 100ft from the familiar
+		- as an action the player can see through the eyes of his familiar
+		- gains the benefits of any special senses the familiar has
+	- A player
+		- can dismiss his/her familiar temporarely with an action
+			- can be resummoned it with another action
+		- can't have more than one familiar at a time
+		- can cast spells with the range of touch through his/her familiar
+	-With Pact of the Chain
+		- you can forgo one of your attacks to allow your familiar to attack

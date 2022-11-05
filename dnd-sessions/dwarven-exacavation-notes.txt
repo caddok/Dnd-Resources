@@ -1,0 +1,90 @@
+Dwarven Excavation quest:
+
+Overall information:
+  1. Dazlyn Grayshard and his partner, Norbus Ironrune, decided to explore a nearby canion
+    1.1 found evidence of ancient dwarven settlement
+	1.2 they've spent several months clearing the rubble
+  2. The ruins contain an old temple of Abbathor(dwarven god of greed)
+    2.1 The temple is ruined because Abbathor found the sacrifice of blood and gems lacking
+
+Quest goals:
+  - Warn the dwarves of the young white dragon
+    - it's not necessary to take the offered quest from the dwarves
+
+Arrival:
+  - Виждате скалните стена на каньона да се истигат на може би 30 метра височа.
+    В края на каньона виждате 6 метрова стена от черен камък, в който е издълбана
+	счупена порта. Едната част от портата се държи едва-едва за пантата,
+	а другата част от портата липсва. Отвъд отворената порта, в сянката на голямата
+	планина на изток, се намира разрушено селище. Всичко е тихо.
+
+Locations:
+  E1. Canyon
+		- entry point of the dungeon
+		- when the quest is completed orcs will appear when the players exit the 
+		  dungeon. Orcs count is 4(for Gosho and Ivan's adventure).
+		- the orcs fight to the death.
+  E2. Ruined settlement
+		- Eveything about the settlement is lost 
+		- Ruined building and rubble everywhere
+		- Nothing of value to be found here
+  E3. Courtyard and Temple Facade
+		- Виждате частично срутена 3 метрова стена, която отделя двора от селището запад-
+		  но от него. Три купчини с отломки са струпани високо пред стълбите на храма. Виждате
+		  изсечени в камъка на планината храмовата фасада и стълби които водят до каменна платформа.
+		  Вдълбани във фасадата виждате 3 метрови каменни врати, до които отстрани се виждат гранитни 
+		  статуи на забулени джуджета в реален размер. Статуите са изобразени със зли усмивки.
+		
+		- The dwarves:
+		  - are eating rations on the easternmost rubble pile
+		  - Dazlyn is the good one
+		  - Norbus is the cautios one
+		  - They sound like a married couple
+		  - offer a quest to clear the temple of the ochre jellys
+		  - the dwarves will split loot they find with those willing to help
+		  - know they've found a temple but don't know for which god
+  E4. Dusty Foyer
+		- one secret door open, nothing of value
+		- one door not discovered
+  E5. Temple
+		- 5 secret doors
+		- 1 jelly above the altar on the east wall
+  E6. Partially collapsed here -> nothing of value to be found
+  E7. Secret Tunnel
+		- 1 jelly hidden in the south end of the corridor
+  E8. Priests' bedchamber -> nothing of value here
+  E9. Vestry -> nothing of value here
+  E10. Partially collapsed Room
+		- Dwarven priest is half burried in the rubble
+		- see the treasure
+  E11. Hall of Greed
+		- First encounter of Sshaktla
+			Turning around the corner you enter another corridor filled with rubble and dust. You can't really 
+			see the end, but you can feel the air going forward.
+			// ask for decision? 
+			Making your way through the rubble in the corridor you react the entrance of the next room.
+			You see big mostly empty room two alcoves in the room, one on the north and one on the south side. In front
+			of the north one you see a cloacked figure of medium size standing in front of a statue of a dwarf with horns,
+			which stares at a glowing green gem in its hands.
+			// ask them if they want to do something
+			// counter any spell with a counterspell; you Shield for ranged attacks; use hold person if a melee charges
+			// raise a Wall of Force (any spellcaster can do an aracana check)
+			The figure goes to the statue and takes the gem. Those of you who speak draconic hear:
+				- Най сссетне подготовката може да зззапочне. 
+			Dimension Door escape:
+				- Hear slight whisper of arcane words
+				- describe a door in the air opening inward 
+			The room starts to collapse 
+
+The Orcs attack:
+	- the dwarves are sending off the PCs promising to return to Phandalin at the end of the tenday
+	- an orc patrol pops up around the corner
+	- The leader says:
+		- Хъъъ, изглежда змията е била права. Наистина има храм в този каньон, но изглежда трябва да избием първо 
+		  малко вредители и един мелез
+	// If they try to negotiate humor them and leave them place to take initiative
+	- Dwarves help with the combat
+	- Players run the dwarves
+	- Orc ranks:
+		- refer to your notes 
+	

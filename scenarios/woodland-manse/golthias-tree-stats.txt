@@ -1,0 +1,31 @@
+Gulthias Tree encounter
+AC: 15
+HP: 200-250
+Current HP: 200-250
+Speed: 0 (immovable)
+Proficiency + 2
+
+Condition Immunities -> blinded, deafened
+
+STR	DEX	CON	INT	WIS	CHA
+20  0	20   6	10   3 
+
+Actions:
+
+Spawn Defenders(Recharge 4-6).
+The Gulthias tree can spawn blights to defends itself. Roll a d20. On an even
+number the tree makes 1d6 Needle Blights in his crown. On an odd number the tree
+makes 1d4 Vine Blights
+
+
+Legendary Actions:
+The Gulthias tree has a number of legendary actions equal to the number of players - 1
+
+Grappling Branch (1 action):
+Melee Weapon Attack: +7 to hit, reach 15 ft., one creature not grappled by the tree. 
+The target is grappled (escape DC 15) and restrained. Until the grapple ends, the target 
+takes 9 (2d8) necrotic damage at the start of each of its turns. While the target is grappled
+any damage dealt to it will recover the same amount to the Gulthias tree
+The root has AC 15 and can be severed by dealing 7 slashing damage at once. Cutting the branch 
+hurts the blight and ends the grapple when destroyed.
+

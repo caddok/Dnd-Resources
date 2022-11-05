@@ -1,0 +1,284 @@
+Woodland Manse a.k.a Trap House
+ST - Saving Throw
+AC - Ability Check
+T + number - Traps section
+W + number - DM map location
+gp - gold piece
+ft - foot
+
+Arrival:
+След като излезнахте от гората виждате че пътят ви води към голяма каменна
+сграда чийто стени са покрити с брашлян. Сградата е построена върху голяма
+каменна основа и над главният вход се виждате балкон.
+
+Entrance (W2)
+	Description
+		Пред вас виждате каменни стълби, които водят към масивна двойна врата. На 3-4
+		над вратата се намира каменен балкон. Около колоните и парапета на балкона са
+		увити лиани. 
+	Scenarios
+	  // приближават се до вратата
+		 Заставайки пред вратата виждате, че няма дръжки и на елфски пише, върху всяка от вратите,
+		 "Be polite or I bite" (E1) 
+	 // някой се опита да се качи на балкона
+		 За да се качи някой на балкона му трябва DC 15 Acrobatics или Athletics.
+			- частичен успех на 13-14 -> позволява за още 1 check
+			- На балкона има затворена двойна врата (2)
+	Encounters
+	  E1. Bark or Bite
+	  Solution
+		Играчите трябва да помолят на елфски вратата да се отвори
+	  Common scenarios
+	   If
+		 се опитат да отворят вратата с ръка и игнорират капана
+	   then
+		 се spawn-ва един Swarm of Insects
+	   If
+		 нападнат вратата
+	   then
+		 се spawn-ват 2 Swarm of Insects
+	  
+	  Е2. Balcony door
+	  Countermeasures
+	  1. Играчът трябва да инспектира ключалката на вратата
+		 DC: 20 Investigation or Perception check
+	  Solutions
+	    If
+	     играчите направят Thief's tools check DC 15 
+		then
+		 при неуспешен опит играчът активира капанът T2	
+	Notes
+		вратата издържа общо 4 удара независимо от това колко 
+		dmg правят играчите и може да призове макс 10 Swarm-a
+
+Parlor (W4)
+	Description
+		Надничайки през прозореца виждаш счупената врата на стаята и че е пълна 
+		със счупено обзавеждане - столове, маси, табуретки и т.н.т. А под тях се намира
+		мухлясал килим.
+	Encounter
+	 P1. Trapped entrances
+		Под два от трите прозореца има pressure plate който активира T3.
+	Notes
+		- Безопасният прозорец е най северният
+		- Стаята се води труден терен
+ 
+Downstairs Hall (W3)
+	Description
+		Влизате в не декорирана зала и вляво виждате стълбище, което води към горният етаж.
+		Също така вляво от вас се намира стая със счупена врата и пълна със счупени мебели.
+		Вдясно от вас има счупена врата.
+	Encounter
+	 DH1. Staircase
+		Играч, който тръгне по стълбите нагоре, активира T4.
+
+Dinning Hall (W5)
+	Description
+		Влизайки в стаята виждате как стените са покрити с груби картини на глигани, които преследват
+		стикмени. В стаята също така има голяма дървена маса и 6 стола наредени около нея. На далечната
+		е разположена голяма камина
+	Encounter
+		Няма опастност в тази стая
+	Treasure
+		Ако претърсят стаята намират голям, хубав свещник който струва 25gp
+
+Kitchen (W6)
+	Description
+		Влизайки в стаята осъзнавате че това най вероятно е кухнята на имението. Срещу теб виждаш голяма
+		мивка пълна до върха с мръсни съдове. От дясно виждате голяма печка. На отсрещната стена виждаш 
+		врата.
+	Encounter
+	 K1. The Brainwasher
+		- Играч, който се приближи на 10ft активира T5
+
+Pantry (W7)
+	Description
+		В стаята има празни дървени рафтове и нищо ценно
+
+Courtyard (W8)
+	Description
+		Влизате и виждате вътрешен двор облицован с камъни. Нещото което привлича вниманието ви веднага е
+		голямо дърво, което изглежда като да е посадено в кладенец. Дървото обаче изглежда като деформирана
+		извита колона от дърво с тесни пролуки в извитите си клони.
+		Виждате че над двора е разположен затворен коридор със седем прозореца, които гледам към двора. 
+	Encounter
+	 C1. Gulthias Tree
+		- битката може да се избегне ако играчите изберат да не атакуват дървото
+		- за да го идентифицират следвай Notes
+	
+	Notes
+		Gulthias Tree
+			DC: 15
+			Auto pass: Druid or Ranger
+			Skills: Nature, Religion, Arcana or Survival
+			Information
+				Roll <= 12 -> не ти харесва това дърво...изглежда не естествено 
+				Roll 13, 14 -> сигурен си че това дърво е зло. Знаеш че така изглеждат дървета,
+				които са корумпирани от зла сила
+				Roll >= 15 -> това дърво се нарича Гултиас. Това са дървета в които са влети зли сили.
+				Тези дървета могат корумпират околният растителен живот и да го превърнат в блайтове(blights).
+				Дървото и блайтовете могат да превърнат цяла гора в токсичен пущинак.
+	
+				
+Apprentices' Room (W9)
+	Description
+		Срещу теб(вас) са разположени 4 легла с нощни шкафчета. Оглеждайки се, забелязвате че на западната стена
+		са разположени гардероби и скрин пълен с посуда и чинии. Околоп малка маса в североизточният ъгъл са поставени
+		4 стола. А в югозападната част на тавана има дупка. 
+	Plays as written 
+				
+Wizard Laboratory (W10)
+	Description
+		След като влизате в стаята, виждате че цялото обзавеждане е начупено и набутано в ъглите на стаята. В центара на
+		стаята е нарисуван огромен символ.
+	Plays as written 
+	
+Library (W11)
+	Description
+		Влизайки в стаята осъзнавате че това най вероятно е била библиотеката и офиса на магьосника. Навсякъде е пълно с
+		книги и томове. Над стаята има балкон до който може да се стигне по витото стълбище отляво. 
+		На горният етаж има още библиотеки и книги на разнообразни теми
+	Notes
+		Входът към спалнята може да се открие с DC Investigation или Perception check
+		върху рафтовете с книги на източната стена
+	Bonus loot:
+		- spell scroll
+			- по един scroll долу на всяко ниво от библиотеката
+			- DC 15 Investigation или Perception check върху рафтовете с книги
+
+Master Bedroom (W12)
+	Description
+		В стаята виждаш/виждате голямо легло разположено между двата прозореца, бюро и стол на северната стена,
+		гардероб на източната стена и камина на южната.
+	Secrets:
+		- DC 15 Perception или Investigation разкрива тайният проход към (W13)
+	Magic Items:
+		- Staff of Birdcalls
+			- може да бъде намерен с Detect Magic
+			- може да бъде намерен с DC 10 Perception check върху камината
+		- Spell Scrolls:
+			- DC 15 Perception или Investigation
+			- 2nd level е скрит в тайно чекмедже в бюрото 
+			- 3rd level e скрит под леглото от горната страна
+	Traps:
+		- Ако някой се приближи към центъра на стаята активира T6 и ако фейлне го
+		  привикай в друг канал
+		  
+Magic Item Vault (W13)
+	Description
+		Отваряйки тайна врата в стената, виждаш закачено пред теб красиво наметало, което полъхва 
+		като отвориш вратата. Под него има дървен съндък с ключалка
+	Loot requirements:
+		- ако се опитат да отворят сандъка с Thief's Tools активират Т2
+		- могат да разбият сандъка но така губят Potion of Greater Healing и активират Т7
+	Loot:
+		- Potion of Greater Healing
+		- Wand of Magic Detection
+		- Potion of Poisons
+		- bag with 250gp
+		- spell scroll of identify
+		- Potion of Fire Breath
+		- Cloak of Billowing
+		- Immovable Rod
+	Notes:
+		The chest has AC 15 and 25hp
+		Countermeasures.
+		Detect magic разкрива червена и тъмно зелена(evocation and poison) аура около и в сандъка. 
+
+Upstairs Hall (W14)
+	Description
+		// Ако някой се качи по стълбите
+		На горния етаж виждаш купчина отпадаци. Поглеждаш нагоре и виждаш че покриват е пропаднал. 
+		Отиваш малко по напред и виждаш че коридорът е постлан с великолепен червен килим. Срещу теб/вас 
+		се намира голяма камина над която има глава на Анкхег. В коридора също така има разположени 3 рицарски статуи
+		, които държат боздугани. В западният край на коридора виждаш вратата на терасата и още една отдясно
+		// Ако някой влезне през терасата
+		Отваряйки вратата на тераса виждаш дълъг коридор постлан с великолепен червен килим. Забелязваш 3 рицарски
+		статуи разположени в залата/коридора. Виждаш че срещу стълбите има разположена камина, над която има окачена
+		анкхегска глава. Вляво от теб има врата, а в дясно коридор, който води към голяма двойна врата.
+	Encouter
+	  Animated Ambush
+		Trigger.
+		Ако играчите намерят тайното хранилище в W13 се активира битката на излизане от имението
+		Effect.
+		Rug of Smolthering and 3 Animated Armors
+		Countermeasures.
+		Detect Magic reveals an aura of light green of abjuration.
+		Ако играч иска да разгледа статуя или килима може да направи DC 17 Investigation check,
+		за да намери Glyph of Warding. След това може да използва Dispel Magic за да се опита да 
+		го махне. Dispel Magic DC 15 
+
+	Notes
+	Suffocation rules
+	A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
+	When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round).
+	At the start of its next turn, it drops to 0 Hit Points and is dying, and it can’t regain Hit Points or be stabilized until it can breathe again.
+	For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before
+	it drops to 0 Hit Points.
+
+
+Traps:
+1. Bark or Bite
+	Trigger. 
+	The door must be verbally asked to open in elven, and 
+	when someone does so, it swings open. However, anyone trying to 
+	open the door by physical means causes one swarm of insects (beetles)
+	to burrow out from within the door and attack.
+2. Balcony Door Poison Needle
+	Effect. 
+	The triggering creature must make a DC 15 Constitution saving throw. On a failed save,
+	the creature takes 14 (4d6) pois on damage and is poisoned for 10 minutes. While poisoned in this way,
+	the creature is paralyzed. On a s uccessful save, the creature takes half as much damage and isn't poisoned.
+3. Crossbow Trap
+	Effect. 
+	The triggering creature must make a DC 15 Dexterity saving throw. On a failed save,
+	the creature takes 11 (2d10) or half as much on a success.
+	
+	Countermeasures.
+	A successful DC 20 Wisdom (Perception) check allows you to spot the pressure plate unde the rug. A successful 
+	bypasses the trap completely.
+		- Half success on 17-19 gives advantage on the saving throw
+4. Trapped Stairs
+	Effect.
+	The staircase climbs 10 feet to area W14. Its upper half has been weakened to the extent that it collapses 
+	under 50 pounds or more of weight. A creature on the collapsing stairs must make a DC 15 Dexterity saving throw to 
+	avoid falling onto a bed of wooden spikes planted underneath the staircase. On a failed save, the creature lands on 
+	1d6 wooden spikes, each one dealing 1d6 piercing damage.
+	
+	Countermeasures.
+	A successful DC 15 Wisdom (Perception) check allows you to spot the weakened part of the stairs and bypasses the trap
+	completely.
+5. The Brainwasher
+	Effect.
+	They must succeed on a DC 15 Wisdom saving throw or be compelled to clean the dishes, a task that takes the next 15 minutes. 
+	If the character takes damage, they may repeat the saving throw, breaking out of the enchantment on a success.
+	
+	Countermeasures. 
+	Detect magic reveals an aura of enchantment magic around the dishes. Breaking all of the dishes causes the magic to fail,
+	releasing anyone caught in its thrall.
+6. Double Vision
+    Effect.
+	When a character’s reflection is shown in the mirror by stepping below it, the character must make a DC 15 Charisma saving throw.
+	On a failed save, the character is instantly teleported inside the mirror, and a doppelganger appearing exactly like the character 
+	takes their place. The character is trapped in the mirror in a sort of magical demi-plane until the doppelganger dies. Only two characters
+	at a time can be affected by this.
+	Countermeasures.
+	Breaking the mirror nullifies the trap. If the mirror is broken while a PC is trapped within they are released from within.
+7. Reflect Damage
+	Trigger.
+	Physically try to harm the chest.
+	
+	Effect.
+	The triggering creature must make a DC 15 Intelligence saving throw. On a failed save,
+	the creature takes 13 (3d8) psychic or half as much on a success.
+	
+
+Doppelganger battle:
+Bazalt - 18
+Doppel - 15
+Fiona - 20
+
+Fiona
+Bazalt
+Doppel
+

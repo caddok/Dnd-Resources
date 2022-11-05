@@ -1,0 +1,6 @@
+Gnomengarde quest:
+
+Location:
+Arrival:
+Encounters:
+NPCs:

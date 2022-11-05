@@ -1,0 +1,32 @@
+1. Investigation vs Perception
+	- Perception - used when trying to spot or notice something
+	- Invesstigation - make deductions on what you've spotted or 
+	  understand how something works
+2. Insight is not mind reading
+	- Insight is about body language, manners and speach patterns
+3. Knowledge checks
+	- Arcana - made to determine knowledge about:
+		- spells
+		- magical effects
+		- abilities
+		- magic items
+		- the plains
+		- creatures who are -> Aberration, Celestial, constructs, dragons,
+		  elementals, fey, fiends, monstrocity and oozes
+		  
+	- History - made to determine knowledge about 
+		- historical events
+		- important people
+		- civilizations
+		- creatures who are -> humanoids, giants
+	- Nature - made to determine knowledge about 
+		- plants
+		- weather
+		- natural events
+		- creatures -> beast, plants and fey
+	- Religion - made to determine knowledge about
+		- deities
+		- religious rites
+		- holy symbols
+		- secret cults
+		- creatures -> celestial, fiend and undead

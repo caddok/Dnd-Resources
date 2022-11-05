@@ -1,0 +1,41 @@
+Phandalin notes:
+	- Stonehill Inn
+		- fix the prices - make them x5 because conversion is 100:1
+		- Toblen Stonehill
+			- owner of the inn
+			- short and friendly male human
+			- tells a Phandalin story if characters interact possitively
+	- Barthen's Provisions: 
+		- owner -> Elmar Barthren
+			- lean and balding human of 50 or more.
+			- has 2 young clerks -> Andre and Thistle
+			- they all tell a Phandlin tale when engaged in a friendly conversation
+		- has most ordinary stuff
+		- no weapons or armor
+		- sells adventuring gear but nothing that costs more than 25GP
+	- Lionshield Coster
+		- owned by the Lionshields
+			- merchant company based in Yartar(100 miles to the east)
+			- sells only finished goods
+		- post master -> Linene Graywind
+			- 35 years old
+			- sharp tongued
+			- sells armor to everyone but won't sell weapons to anyone who she thinks is
+			  a threat to the town
+			- Tells Phandalin tale
+	- Miner's Exchange
+		- server also as an unofficial records office
+			- registers claims to various streams and excavations
+		- great place to meet people who spend a lot of time out and about in the countryside
+		- guild master -> Halia Thornton
+			- calculating human woman
+			- agent of Zhentarim
+				- Zhentarim:
+					- shadowy organization
+					- seeks to exert secret control over the North
+			- works to brong Phandalin under her control
+			- tells a tale if the adventurers get on her good side
+			NOTE:
+				This can be a decent hook for the next adventurer. Think about hwo to expand this.
+
+	

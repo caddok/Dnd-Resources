@@ -1,0 +1,24 @@
+Woodland Manse aftermath:
+
+Като играчите се върнат в хижата Фалкон ги разпитва на вечеря за събитията
+	- Ако не знаят какви са плановете на орките не им дава наградата.
+	- Трябва да платят 10gp за да спят в хижата.
+	
+На следващият ден преди да си тръгнат от хижата ги нападат орките заедно с Gorthok
+the thunder boar и priest-ката и мантикора.
+
+Mark of Talos.
+A mark resembling three parallel lightning bolts appears on a creatures head. It can only be removed by a remove curse spell,
+and the creature takes extra 9 (2d8) damage from the next lightning attack.
+
+
+Legendary Actions:
+1. Thunder Hoofs. Strikes with the rare legs 
+Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) thunder damage. 
+2. Lightning Tusks.
+Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) lightning damage.
+3. Lightning of Talos
+Gorthok call down a lightning to strike a target it can see. The target must make DC 15 Dexterity Saving.
+The target must make a DC 15 Dexterity saving throw, taking 9 (2d8) lightning damage on a failed save and has the Mark of Talos,
+or half as much damage on a successful one. 
+If a creature is has the Mark of Talos, it takes extra 9 (2d8) lightning damage and it's Stunned
